@@ -22,10 +22,15 @@ To extract, analyze, and visualize retail sales trends using Excel pivot tables,
 
 ## 🧰 Features
 •	🗃️ Data Sheet: Core dataset containing monthly sales figures by store, manager, category, and location.
+
 •	📈 Top Sales Month & Manager Views: Highlight months and managers with highest impact on sales.
+
 •	🏆 Store Performance: Count and percentage contribution of each store.
+
 •	🌍 Regional Breakdown: Focused views such as "Sales in England" and province-level distribution.
+
 •	📊 Pivot Charts & Dashboards: Interactive visuals for decision-makers.
+
 •	🧮 Helper Sheets: Used for calculations and data transformations supporting dashboard logic.
 
 
