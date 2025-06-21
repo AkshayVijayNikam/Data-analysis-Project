@@ -1,22 +1,22 @@
 # 📊 Excel Sales Data Analysis Project
 
-This project analyses retail sales data using Microsoft Excel. It provides dynamic dashboards and insightful metrics to evaluate sales performance across various dimensions like region, category, and management.
+This project analyzes retail sales data using Excel, providing interactive dashboards and insightful summaries to support business decisions. It includes a structured dataset across multiple dimensions like store, manager, region, category, and time.
 
 ---
 
 ## 🧾 Project Objective
 
-To extract, analyze, and visualize retail sales trends using Excel pivot tables, charts, and formulas to deliver business insights.
+To perform sales trend analysis and derive actionable insights using Excel's powerful visualization and data manipulation features.
 
 ---
 
 ## 🔍 Key Insights
 
-- **Top Performing Managers**: Ranked top 5 managers based on total sales across all stores.
-- **Sales Trends**: Identified peak and low sales months for seasonal planning.
+- **Top Performing Managers**: Identified top 5 sales managers based on monthly and category-wise sales & Highlighted the best-performing stores by region and province. 
+- **Sales Trends**: Determined peak sales months across all stores and categories & Compared sales share by store using percentage breakdowns.
 - **Regional Breakdown**: Analyzed store-wise and region-wise contribution to total sales.
 - **Category Performance**: Assessed top-selling categories and underperformers by store.
-- **Store Contribution**: Visualized % share of each store in total sales.
+- **Store Contribution**: Visualized % share of each store in total sales & segmented sales performance by product categories.
 
 ---
 
